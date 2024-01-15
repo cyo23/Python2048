@@ -21,4 +21,4 @@ To get started with this project:
 
 We hope this project will serve as a valuable resource for CSSE1001 students, helping them to better understand and enjoy the world of Python and GUI programming. Happy coding!
 
-
+![Game Screenshot](example.png)
